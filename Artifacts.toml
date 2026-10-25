@@ -1,0 +1,595 @@
+[[NCH5fletcher32]]
+arch = "aarch64"
+git-tree-sha1 = "1919599e954c108b9aa10556e1e1a500348d6e8d"
+mpi = "mpiabi"
+os = "macos"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "04abc62bddafa92e5f1acea156d90702b52b4e90f4cc2347841824fa1aa93775"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.aarch64-apple-darwin-mpi+mpiabi.tar.gz"
+[[NCH5fletcher32]]
+arch = "aarch64"
+git-tree-sha1 = "1919599e954c108b9aa10556e1e1a500348d6e8d"
+mpi = "mpich"
+os = "macos"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "04abc62bddafa92e5f1acea156d90702b52b4e90f4cc2347841824fa1aa93775"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.aarch64-apple-darwin-mpi+mpich.tar.gz"
+[[NCH5fletcher32]]
+arch = "aarch64"
+git-tree-sha1 = "1919599e954c108b9aa10556e1e1a500348d6e8d"
+mpi = "mpitrampoline"
+os = "macos"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "04abc62bddafa92e5f1acea156d90702b52b4e90f4cc2347841824fa1aa93775"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.aarch64-apple-darwin-mpi+mpitrampoline.tar.gz"
+[[NCH5fletcher32]]
+arch = "aarch64"
+git-tree-sha1 = "1919599e954c108b9aa10556e1e1a500348d6e8d"
+mpi = "openmpi"
+os = "macos"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "04abc62bddafa92e5f1acea156d90702b52b4e90f4cc2347841824fa1aa93775"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.aarch64-apple-darwin-mpi+openmpi.tar.gz"
+[[NCH5fletcher32]]
+arch = "aarch64"
+git-tree-sha1 = "7aeb8e54a3f700cd3a7583d562ca9aa19889b175"
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "cf40cadf91a0ce117fdaafdda6e636a924a81be4e0a5a27f51165c0675b69d51"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.aarch64-linux-gnu-mpi+mpiabi.tar.gz"
+[[NCH5fletcher32]]
+arch = "aarch64"
+git-tree-sha1 = "7aeb8e54a3f700cd3a7583d562ca9aa19889b175"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "cf40cadf91a0ce117fdaafdda6e636a924a81be4e0a5a27f51165c0675b69d51"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.aarch64-linux-gnu-mpi+mpich.tar.gz"
+[[NCH5fletcher32]]
+arch = "aarch64"
+git-tree-sha1 = "7aeb8e54a3f700cd3a7583d562ca9aa19889b175"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "cf40cadf91a0ce117fdaafdda6e636a924a81be4e0a5a27f51165c0675b69d51"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.aarch64-linux-gnu-mpi+mpitrampoline.tar.gz"
+[[NCH5fletcher32]]
+arch = "aarch64"
+git-tree-sha1 = "7aeb8e54a3f700cd3a7583d562ca9aa19889b175"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "cf40cadf91a0ce117fdaafdda6e636a924a81be4e0a5a27f51165c0675b69d51"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.aarch64-linux-gnu-mpi+openmpi.tar.gz"
+[[NCH5fletcher32]]
+arch = "aarch64"
+git-tree-sha1 = "3b0818f7e750ee884ff26257e509aa25b5a027e8"
+libc = "musl"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "be9e7029076df495c30138c7c9954412621edf0366f968d5d5c59739f75613cb"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.aarch64-linux-musl-mpi+mpiabi.tar.gz"
+[[NCH5fletcher32]]
+arch = "aarch64"
+git-tree-sha1 = "3b0818f7e750ee884ff26257e509aa25b5a027e8"
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "be9e7029076df495c30138c7c9954412621edf0366f968d5d5c59739f75613cb"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.aarch64-linux-musl-mpi+mpich.tar.gz"
+[[NCH5fletcher32]]
+arch = "aarch64"
+git-tree-sha1 = "3b0818f7e750ee884ff26257e509aa25b5a027e8"
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "be9e7029076df495c30138c7c9954412621edf0366f968d5d5c59739f75613cb"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.aarch64-linux-musl-mpi+openmpi.tar.gz"
+[[NCH5fletcher32]]
+arch = "aarch64"
+git-tree-sha1 = "88f864a701b23d444deef9c4c19faa2edee97d8e"
+mpi = "mpiabi"
+os = "freebsd"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "d3d2cdb799e560fa1b461368e0e974ae56514a0e623759246a238bdd3b45a936"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.aarch64-unknown-freebsd-mpi+mpiabi.tar.gz"
+[[NCH5fletcher32]]
+arch = "aarch64"
+git-tree-sha1 = "88f864a701b23d444deef9c4c19faa2edee97d8e"
+mpi = "mpich"
+os = "freebsd"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "d3d2cdb799e560fa1b461368e0e974ae56514a0e623759246a238bdd3b45a936"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.aarch64-unknown-freebsd-mpi+mpich.tar.gz"
+[[NCH5fletcher32]]
+arch = "aarch64"
+git-tree-sha1 = "88f864a701b23d444deef9c4c19faa2edee97d8e"
+mpi = "mpitrampoline"
+os = "freebsd"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "d3d2cdb799e560fa1b461368e0e974ae56514a0e623759246a238bdd3b45a936"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.aarch64-unknown-freebsd-mpi+mpitrampoline.tar.gz"
+[[NCH5fletcher32]]
+arch = "aarch64"
+git-tree-sha1 = "88f864a701b23d444deef9c4c19faa2edee97d8e"
+mpi = "openmpi"
+os = "freebsd"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "d3d2cdb799e560fa1b461368e0e974ae56514a0e623759246a238bdd3b45a936"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.aarch64-unknown-freebsd-mpi+openmpi.tar.gz"
+[[NCH5fletcher32]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "a9f0751afa06cfb5ee69ba60101e7d313145bcb2"
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "c8e4bd086546b860176abdf5939294aa1db1a1aed7ed6475214344ee882e4d92"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.armv6l-linux-gnueabihf-mpi+mpiabi.tar.gz"
+[[NCH5fletcher32]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "a9f0751afa06cfb5ee69ba60101e7d313145bcb2"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "c8e4bd086546b860176abdf5939294aa1db1a1aed7ed6475214344ee882e4d92"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.armv6l-linux-gnueabihf-mpi+mpich.tar.gz"
+[[NCH5fletcher32]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "a9f0751afa06cfb5ee69ba60101e7d313145bcb2"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "c8e4bd086546b860176abdf5939294aa1db1a1aed7ed6475214344ee882e4d92"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.armv6l-linux-gnueabihf-mpi+mpitrampoline.tar.gz"
+[[NCH5fletcher32]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "18e9c92ee002ec30cf130d95add56b31985bc77e"
+libc = "musl"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "402ff3fac428e394b5c61bcf0ccd9e45a7cc3834d41c25b8b57c92bc1225bf2f"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.armv6l-linux-musleabihf-mpi+mpiabi.tar.gz"
+[[NCH5fletcher32]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "18e9c92ee002ec30cf130d95add56b31985bc77e"
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "402ff3fac428e394b5c61bcf0ccd9e45a7cc3834d41c25b8b57c92bc1225bf2f"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.armv6l-linux-musleabihf-mpi+mpich.tar.gz"
+[[NCH5fletcher32]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "18e9c92ee002ec30cf130d95add56b31985bc77e"
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "402ff3fac428e394b5c61bcf0ccd9e45a7cc3834d41c25b8b57c92bc1225bf2f"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.armv6l-linux-musleabihf-mpi+openmpi.tar.gz"
+[[NCH5fletcher32]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "b758570fcf64972423171bbdfee017261d77eb69"
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "e031a42f607462fe6642b47236d71c8fb5e593482e1d690cce3d69ce0967027d"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.armv7l-linux-gnueabihf-mpi+mpiabi.tar.gz"
+[[NCH5fletcher32]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "b758570fcf64972423171bbdfee017261d77eb69"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "e031a42f607462fe6642b47236d71c8fb5e593482e1d690cce3d69ce0967027d"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.armv7l-linux-gnueabihf-mpi+mpich.tar.gz"
+[[NCH5fletcher32]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "b758570fcf64972423171bbdfee017261d77eb69"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "e031a42f607462fe6642b47236d71c8fb5e593482e1d690cce3d69ce0967027d"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.armv7l-linux-gnueabihf-mpi+mpitrampoline.tar.gz"
+[[NCH5fletcher32]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "b758570fcf64972423171bbdfee017261d77eb69"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "e031a42f607462fe6642b47236d71c8fb5e593482e1d690cce3d69ce0967027d"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.armv7l-linux-gnueabihf-mpi+openmpi.tar.gz"
+[[NCH5fletcher32]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "1b1c61b042671feb6ebcb040de208ea8cd06c891"
+libc = "musl"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "93e915cb0e0e23e48f3e32947ffaf59efdcae0e6a26236f569562d1b196af870"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.armv7l-linux-musleabihf-mpi+mpiabi.tar.gz"
+[[NCH5fletcher32]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "1b1c61b042671feb6ebcb040de208ea8cd06c891"
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "93e915cb0e0e23e48f3e32947ffaf59efdcae0e6a26236f569562d1b196af870"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.armv7l-linux-musleabihf-mpi+mpich.tar.gz"
+[[NCH5fletcher32]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "1b1c61b042671feb6ebcb040de208ea8cd06c891"
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "93e915cb0e0e23e48f3e32947ffaf59efdcae0e6a26236f569562d1b196af870"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.armv7l-linux-musleabihf-mpi+openmpi.tar.gz"
+[[NCH5fletcher32]]
+arch = "i686"
+git-tree-sha1 = "f708dce07fe3e29aca1115bdee8f604c7d0d4c83"
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "9d3c97d969ea2a2ddc0857f8fc191b6bf1929e37d0a754113e99ce441ef2bacf"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.i686-linux-gnu-mpi+mpiabi.tar.gz"
+[[NCH5fletcher32]]
+arch = "i686"
+git-tree-sha1 = "f708dce07fe3e29aca1115bdee8f604c7d0d4c83"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "9d3c97d969ea2a2ddc0857f8fc191b6bf1929e37d0a754113e99ce441ef2bacf"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.i686-linux-gnu-mpi+mpich.tar.gz"
+[[NCH5fletcher32]]
+arch = "i686"
+git-tree-sha1 = "f708dce07fe3e29aca1115bdee8f604c7d0d4c83"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "9d3c97d969ea2a2ddc0857f8fc191b6bf1929e37d0a754113e99ce441ef2bacf"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.i686-linux-gnu-mpi+mpitrampoline.tar.gz"
+[[NCH5fletcher32]]
+arch = "i686"
+git-tree-sha1 = "f708dce07fe3e29aca1115bdee8f604c7d0d4c83"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "9d3c97d969ea2a2ddc0857f8fc191b6bf1929e37d0a754113e99ce441ef2bacf"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.i686-linux-gnu-mpi+openmpi.tar.gz"
+[[NCH5fletcher32]]
+arch = "i686"
+git-tree-sha1 = "b74c89cdc0aaca1ba95b62b5cb609ea76330a218"
+libc = "musl"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "35d4356ec7989a4bc041e5fb7352500e170af50d66b8e23e92ce864d7ab5ce7a"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.i686-linux-musl-mpi+mpiabi.tar.gz"
+[[NCH5fletcher32]]
+arch = "i686"
+git-tree-sha1 = "b74c89cdc0aaca1ba95b62b5cb609ea76330a218"
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "35d4356ec7989a4bc041e5fb7352500e170af50d66b8e23e92ce864d7ab5ce7a"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.i686-linux-musl-mpi+mpich.tar.gz"
+[[NCH5fletcher32]]
+arch = "i686"
+git-tree-sha1 = "b74c89cdc0aaca1ba95b62b5cb609ea76330a218"
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "35d4356ec7989a4bc041e5fb7352500e170af50d66b8e23e92ce864d7ab5ce7a"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.i686-linux-musl-mpi+openmpi.tar.gz"
+[[NCH5fletcher32]]
+arch = "i686"
+git-tree-sha1 = "f95555dc42d27729bd9f5048df14c6609a1df67b"
+mpi = "microsoftmpi"
+os = "windows"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "b9a8cc316102bd0815dc075d8f3dec6c64b651652d7cfdea9b0dbad05294eece"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.i686-w64-mingw32-mpi+microsoftmpi.tar.gz"
+[[NCH5fletcher32]]
+arch = "powerpc64le"
+git-tree-sha1 = "4011121b9e8f7dc290c12c211e0b17970aa736b5"
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "711462a273fbcf938931675a61a8561d5c6d16915b6ec4d148b67ad6a6da08eb"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.powerpc64le-linux-gnu-mpi+mpiabi.tar.gz"
+[[NCH5fletcher32]]
+arch = "powerpc64le"
+git-tree-sha1 = "4011121b9e8f7dc290c12c211e0b17970aa736b5"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "711462a273fbcf938931675a61a8561d5c6d16915b6ec4d148b67ad6a6da08eb"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.powerpc64le-linux-gnu-mpi+mpich.tar.gz"
+[[NCH5fletcher32]]
+arch = "powerpc64le"
+git-tree-sha1 = "4011121b9e8f7dc290c12c211e0b17970aa736b5"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "711462a273fbcf938931675a61a8561d5c6d16915b6ec4d148b67ad6a6da08eb"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.powerpc64le-linux-gnu-mpi+mpitrampoline.tar.gz"
+[[NCH5fletcher32]]
+arch = "powerpc64le"
+git-tree-sha1 = "4011121b9e8f7dc290c12c211e0b17970aa736b5"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "711462a273fbcf938931675a61a8561d5c6d16915b6ec4d148b67ad6a6da08eb"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.powerpc64le-linux-gnu-mpi+openmpi.tar.gz"
+[[NCH5fletcher32]]
+arch = "riscv64"
+git-tree-sha1 = "eaf51065f5809d114cc1f7c96182e73d4aa06412"
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "f9e10ca854fe0e84050f5ca77e866cb482a348ee65e36d30aaefd4cfbc710dba"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.riscv64-linux-gnu-mpi+mpiabi.tar.gz"
+[[NCH5fletcher32]]
+arch = "riscv64"
+git-tree-sha1 = "eaf51065f5809d114cc1f7c96182e73d4aa06412"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "f9e10ca854fe0e84050f5ca77e866cb482a348ee65e36d30aaefd4cfbc710dba"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.riscv64-linux-gnu-mpi+mpich.tar.gz"
+[[NCH5fletcher32]]
+arch = "riscv64"
+git-tree-sha1 = "eaf51065f5809d114cc1f7c96182e73d4aa06412"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "f9e10ca854fe0e84050f5ca77e866cb482a348ee65e36d30aaefd4cfbc710dba"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.riscv64-linux-gnu-mpi+mpitrampoline.tar.gz"
+[[NCH5fletcher32]]
+arch = "riscv64"
+git-tree-sha1 = "eaf51065f5809d114cc1f7c96182e73d4aa06412"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "f9e10ca854fe0e84050f5ca77e866cb482a348ee65e36d30aaefd4cfbc710dba"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.riscv64-linux-gnu-mpi+openmpi.tar.gz"
+[[NCH5fletcher32]]
+arch = "x86_64"
+git-tree-sha1 = "fb8ba9f58c9c499a32d12f7d7f9df5cffd5e3603"
+mpi = "mpiabi"
+os = "macos"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "ec0209b380525958c103f5bd9f8805e830a538a3c3f7a0f1acf16d90afa8cd03"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.x86_64-apple-darwin-mpi+mpiabi.tar.gz"
+[[NCH5fletcher32]]
+arch = "x86_64"
+git-tree-sha1 = "fb8ba9f58c9c499a32d12f7d7f9df5cffd5e3603"
+mpi = "mpich"
+os = "macos"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "ec0209b380525958c103f5bd9f8805e830a538a3c3f7a0f1acf16d90afa8cd03"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.x86_64-apple-darwin-mpi+mpich.tar.gz"
+[[NCH5fletcher32]]
+arch = "x86_64"
+git-tree-sha1 = "fb8ba9f58c9c499a32d12f7d7f9df5cffd5e3603"
+mpi = "mpitrampoline"
+os = "macos"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "ec0209b380525958c103f5bd9f8805e830a538a3c3f7a0f1acf16d90afa8cd03"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.x86_64-apple-darwin-mpi+mpitrampoline.tar.gz"
+[[NCH5fletcher32]]
+arch = "x86_64"
+git-tree-sha1 = "fb8ba9f58c9c499a32d12f7d7f9df5cffd5e3603"
+mpi = "openmpi"
+os = "macos"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "ec0209b380525958c103f5bd9f8805e830a538a3c3f7a0f1acf16d90afa8cd03"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.x86_64-apple-darwin-mpi+openmpi.tar.gz"
+[[NCH5fletcher32]]
+arch = "x86_64"
+git-tree-sha1 = "104e7b9330fe88260efdb9247b5c18927c174111"
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "312bf4c60184619b1ec3a5f2989a82ce51f2187715de526687304a65e29f2e43"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.x86_64-linux-gnu-mpi+mpiabi.tar.gz"
+[[NCH5fletcher32]]
+arch = "x86_64"
+git-tree-sha1 = "104e7b9330fe88260efdb9247b5c18927c174111"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "312bf4c60184619b1ec3a5f2989a82ce51f2187715de526687304a65e29f2e43"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.x86_64-linux-gnu-mpi+mpich.tar.gz"
+[[NCH5fletcher32]]
+arch = "x86_64"
+git-tree-sha1 = "104e7b9330fe88260efdb9247b5c18927c174111"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "312bf4c60184619b1ec3a5f2989a82ce51f2187715de526687304a65e29f2e43"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.x86_64-linux-gnu-mpi+mpitrampoline.tar.gz"
+[[NCH5fletcher32]]
+arch = "x86_64"
+git-tree-sha1 = "104e7b9330fe88260efdb9247b5c18927c174111"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "312bf4c60184619b1ec3a5f2989a82ce51f2187715de526687304a65e29f2e43"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.x86_64-linux-gnu-mpi+openmpi.tar.gz"
+[[NCH5fletcher32]]
+arch = "x86_64"
+git-tree-sha1 = "9ec9c6b045ed92f4d90b76ea06d4bb6e53bf1aca"
+libc = "musl"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "9aa9a55c936000dd4d9402947be01d45e6aa5e54985b66baeba420523e0ea4a5"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.x86_64-linux-musl-mpi+mpiabi.tar.gz"
+[[NCH5fletcher32]]
+arch = "x86_64"
+git-tree-sha1 = "9ec9c6b045ed92f4d90b76ea06d4bb6e53bf1aca"
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "9aa9a55c936000dd4d9402947be01d45e6aa5e54985b66baeba420523e0ea4a5"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.x86_64-linux-musl-mpi+mpich.tar.gz"
+[[NCH5fletcher32]]
+arch = "x86_64"
+git-tree-sha1 = "9ec9c6b045ed92f4d90b76ea06d4bb6e53bf1aca"
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "9aa9a55c936000dd4d9402947be01d45e6aa5e54985b66baeba420523e0ea4a5"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.x86_64-linux-musl-mpi+openmpi.tar.gz"
+[[NCH5fletcher32]]
+arch = "x86_64"
+git-tree-sha1 = "f40494498914a836b63602cb9b94c4df5e3af144"
+mpi = "mpiabi"
+os = "freebsd"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "af213a1b982482f1d0e2290a6ef86b540b0b04c8049c9392c501a22821dd8086"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.x86_64-unknown-freebsd-mpi+mpiabi.tar.gz"
+[[NCH5fletcher32]]
+arch = "x86_64"
+git-tree-sha1 = "f40494498914a836b63602cb9b94c4df5e3af144"
+mpi = "mpich"
+os = "freebsd"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "af213a1b982482f1d0e2290a6ef86b540b0b04c8049c9392c501a22821dd8086"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.x86_64-unknown-freebsd-mpi+mpich.tar.gz"
+[[NCH5fletcher32]]
+arch = "x86_64"
+git-tree-sha1 = "f40494498914a836b63602cb9b94c4df5e3af144"
+mpi = "mpitrampoline"
+os = "freebsd"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "af213a1b982482f1d0e2290a6ef86b540b0b04c8049c9392c501a22821dd8086"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.x86_64-unknown-freebsd-mpi+mpitrampoline.tar.gz"
+[[NCH5fletcher32]]
+arch = "x86_64"
+git-tree-sha1 = "f40494498914a836b63602cb9b94c4df5e3af144"
+mpi = "openmpi"
+os = "freebsd"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "af213a1b982482f1d0e2290a6ef86b540b0b04c8049c9392c501a22821dd8086"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.x86_64-unknown-freebsd-mpi+openmpi.tar.gz"
+[[NCH5fletcher32]]
+arch = "x86_64"
+git-tree-sha1 = "9a145ac5c9fd7706b12555348e43aaa980878668"
+mpi = "microsoftmpi"
+os = "windows"
+
+    [[NCH5fletcher32.download]]
+    sha256 = "71b33f83c431e261da9407ee502483d66996b77f8ef5667e3d333e947256a721"
+    url = "https://github.com/JuliaBinaryWrappers/NCH5fletcher32_jll.jl/releases/download/NCH5fletcher32-v401.1000.100+0/NCH5fletcher32.v401.1000.100.x86_64-w64-mingw32-mpi+microsoftmpi.tar.gz"
